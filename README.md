@@ -6,11 +6,18 @@ A simple and clean e-commerce frontend application built with **React**, using *
 
 ## 🚀 Live Demo
 
-**🔗 Vercel Deployment:** [https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)
+**🔗 Vercel Deployment:** [https://shopping-app-sigma-lilac.vercel.app/]
 
-**🔗 GitHub Repository:** [https://github.com/yourusername/fakeshop](https://github.com/yourusername/fakeshop)
+**🔗 GitHub Repository:** [https://github.com/vedantnaik1008/shopping-app]
 
 ---
+
+## 🔐 Test Credentials
+
+- **Username:** `mor_2314`
+- **Password:** `83r5^_`
+
+Used for login at: [https://fakestoreapi.com/auth/login]
 
 ## 🧰 Tech Stack
 
@@ -42,5 +49,5 @@ A simple and clean e-commerce frontend application built with **React**, using *
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/fakeshop.git
-cd fakeshop
+git clone https://github.com/vedantnaik1008/shopping-app.git
+cd shopping-app
